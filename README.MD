@@ -1,7 +1,7 @@
 # Spring Kafka Tutorial
 
 ## Starting zookeeper / kafka servers
-Download and run composer project at  https://github.com/simplesteph/kafka-stack-docker-compose according the project README.MD file
+Download and run composer project at  https://github.com/simplesteph/kafka-stack-docker-compose and start according the project README.MD file
 
 ### Run Tests to see the results
 
